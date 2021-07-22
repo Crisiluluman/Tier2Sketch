@@ -1,0 +1,13 @@
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\bin\Debug\netcoreapp3.1\Tier2Sketch.exe
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\bin\Debug\netcoreapp3.1\Tier2Sketch.deps.json
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\bin\Debug\netcoreapp3.1\Tier2Sketch.runtimeconfig.json
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\bin\Debug\netcoreapp3.1\Tier2Sketch.runtimeconfig.dev.json
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\bin\Debug\netcoreapp3.1\Tier2Sketch.dll
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\bin\Debug\netcoreapp3.1\Tier2Sketch.pdb
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\obj\Debug\netcoreapp3.1\Tier2Sketch.csprojAssemblyReference.cache
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\obj\Debug\netcoreapp3.1\Tier2Sketch.AssemblyInfoInputs.cache
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\obj\Debug\netcoreapp3.1\Tier2Sketch.AssemblyInfo.cs
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\obj\Debug\netcoreapp3.1\Tier2Sketch.csproj.CoreCompileInputs.cache
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\obj\Debug\netcoreapp3.1\Tier2Sketch.dll
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\obj\Debug\netcoreapp3.1\Tier2Sketch.pdb
+C:\Users\kawaz\RiderProjects\Tier2Sketch\Tier2Sketch\obj\Debug\netcoreapp3.1\Tier2Sketch.genruntimeconfig.cache

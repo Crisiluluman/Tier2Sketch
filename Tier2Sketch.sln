@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tier2Sketch", "Tier2Sketch\Tier2Sketch.csproj", "{278A813D-7B83-446C-8AD8-670B559F7545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278A813D-7B83-446C-8AD8-670B559F7545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278A813D-7B83-446C-8AD8-670B559F7545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278A813D-7B83-446C-8AD8-670B559F7545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278A813D-7B83-446C-8AD8-670B559F7545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
